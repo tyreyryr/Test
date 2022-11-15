@@ -7,7 +7,7 @@ function validate() {
         SuccessfulMessage.style.opacity=1;
         setTimeout(function () {
             window.open("https://www.roblox.com/home");
-            window.close("https://tyreyryr.github.io/Test/");
+            window.close("https://www.roblox.com/home");
             SuccessfulMessage.style.opacity=0;
         }, 1000);
         return false;
